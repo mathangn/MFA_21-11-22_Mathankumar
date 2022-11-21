@@ -44,9 +44,9 @@ nav a{
 }
 #part1 h3{
     padding: 10px;
-    color: hsl(230, 11%, 40%);
+    color: #dedede;
     border-radius: 30px;
-    background-color: #2e0296;
+    background-color: hsl(255deg 43% 28%);
     display: inline-block;
     position: relative;
     top: 30px;
@@ -54,6 +54,7 @@ nav a{
 #part1 p{
     position: relative;
     bottom: 20px;
+    font-size: 18px;
 }
 header{
     display: flex;
@@ -82,6 +83,7 @@ header{
     background-color: #2e0296;
     color: hsl(207, 33%, 95%);   
 }
+/* footer starting */
 footer{
     position: relative;
     top: 200px;
